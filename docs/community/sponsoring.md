@@ -5,9 +5,9 @@ On [https//www.aegirproject.org/#support](https://www.aegirproject.org/#support)
 
 But we're also open to a few gold sponsors.
 
-[Contact the Ægir Coop](<maillto:info@aegir.coop>) for more info about sponsering the ongoing development and maintenance of Aegir.
+[Contact the Ægir Coop](<maillto:info@aegir.coop>) for more info about sponsoring the ongoing development and maintenance of Aegir.
 
-Possible bennefits
+Possible benefits
 ------------------
 
 - Your logo on [www.aegirproject.org](https://www.aegirproject.org)
